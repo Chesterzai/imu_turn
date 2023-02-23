@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import rospy
 import cv2
-import keyboard
+#import keyboard
 import numpy as np
 import time
 import os, sys
